@@ -3,6 +3,10 @@ svg path,
 svg rect{
     fill: black;
 }
+.top-fixed
+{
+    background-color: #FA800D;
+}
 .animated{
     -webkit-animation-duration: 1s;
     animation-duration: 1s;

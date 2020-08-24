@@ -47,9 +47,9 @@ body {
 }
 
 .rk-header {
-  background-color: #fff;
-  position: relative;
+  background-color:  #FA800D;
   z-index: 5;
+  height: 150px;
 }
 .top-fixed .rk-header {
   position: fixed;
@@ -228,7 +228,7 @@ body {
 }
 
 .rk-footer__text {
-  color: #787878;
+ color: #787878;
   font-size: .75rem;
   margin-bottom: .875rem;
 }
@@ -2154,6 +2154,8 @@ body {
     padding-right: 0;
   }
 }
+
+
 
 .rk-dark-color {
   color: #202020;

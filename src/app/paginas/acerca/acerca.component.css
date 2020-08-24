@@ -1,0 +1,24 @@
+h1{
+	
+	text-align: center;
+color: black;
+
+}
+.text-2{
+    color: darkred;
+}
+.presentacion{
+    display: block;
+    margin: auto;
+}
+
+.ae-grid  {
+    display: flex;
+    justify-content: center;
+  }
+  .ae-grid__item--alt {
+    padding: 10px;
+    margin: 10px;
+   
+  }
+ 
